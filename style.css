@@ -16,8 +16,8 @@ h1{
 }
 hr {
   margin: 18px auto;
-  color: #F05F44;
-  border: 3px solid #F05F44;
+  color: ;
+  border: 3px solid white;
   max-width: 65px;
   opacity: 1;  
 }
@@ -31,7 +31,7 @@ hr {
 }
 
 .btn-primary{
-  background-color: #f05f44;
+  background-color: black;
   border-color: #f05f44;
   transition: all 0.3s;
 }
